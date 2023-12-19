@@ -5,6 +5,8 @@ https://www.30a-tv.com/InvPit.m3u8
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbVdkJ5.png" tvg-name="TD Ameritrade Network" group-title="Business",TD Ameritrade Network
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eEV4r6J.jpg" tvg-name="Al Arabiya Business" group-title="Business",Al Arabiya Business
+https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xGlToly.png" tvg-name="Bloomberg TV+" group-title="Business",Bloomberg TV+
 https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-name="Bloomberg TV Europe" group-title="Business",Bloomberg TV Europe
