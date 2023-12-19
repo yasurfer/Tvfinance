@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKCtZo7.png" tvg-name="30A Investment Pitch" group-title="Business",30A Investment Pitch
+https://www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png" tvg-name="Ameritrade" group-title="Business",Ameritrade
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RbVdkJ5.png" tvg-name="TD Ameritrade Network" group-title="Business",TD Ameritrade Network
+https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xGlToly.png" tvg-name="Bloomberg TV+" group-title="Business",Bloomberg TV+
+https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-name="Bloomberg TV Europe" group-title="Business",Bloomberg TV Europe
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png" tvg-name="Cafe Trade TV" group-title="Business",Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Ei5VHa.png" tvg-name="CNBC Finance" group-title="Business",CNBC Finance
+#EXTVLCOPT:http-referrer=https://livenewsof.com/
+https://rtmp2.livenewsof.com/livenewsof.com/qJbteqvER7/9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-name="Yahoo! Finance" group-title="Business",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
